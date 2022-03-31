@@ -11,3 +11,7 @@ Bundler.require(:default, :development)
 # require 'rspec'
 # require 'rest-client'
 # require 'pry'
+
+
+
+# this file requires the gems we need for our app to run.  Whenever the app run, Bundler requires the appropriate gems.

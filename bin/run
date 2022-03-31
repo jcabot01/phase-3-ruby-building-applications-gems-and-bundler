@@ -5,3 +5,5 @@ require_relative '../config/environment'
 
 hash = { :a => 4, :b => 10 }
 ap hash
+
+# now that we have all of the dependencies, "gems", and our Bundler is requiring them, we can consolidate all of that into this file. 
